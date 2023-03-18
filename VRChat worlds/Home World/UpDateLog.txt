@@ -1,6 +1,6 @@
                                                                1.1.0
 fixed unable to access the Video player controller from far away
 added vrchat string downloader to auto update the credits text file and to the update log
-=========================================================================================
+
                                                                1.0.0
 The intial world upload and ented it to the community labs
