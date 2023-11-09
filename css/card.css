@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    position: relative;
+}
+.card {
+    box-shadow: 0 8px 16px 0 #93ABC8;
+    margin: 10px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 #12BCFF;
+}
+
+.card-title {
+    font-weight: 600;
+    margin: 0 10px;
+    text-align: center;
+    color: #ffffff
+}
+
+/*#new_banner {
+    position: absolute;
+    border-style: solid;
+    border-width: 30px 30px 0 0;
+    border-color: #262C30 transparent transparent transparent;
+}
+#new_banner:before {
+    content: "";
+}*/
